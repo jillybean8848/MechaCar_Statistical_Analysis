@@ -25,8 +25,7 @@ Below is an image of our findings using R Studio:
 ![mpg](https://user-images.githubusercontent.com/110632671/205527209-89ee3a16-b3d3-41ef-b985-077a7030220c.png)
 
 ## Summary Statistics on Suspension Coils
-### Summary on All Lots
-![All_Lots](https://user-images.githubusercontent.com/110632671/205527760-676e704f-508a-48a0-bd97-4babf30d91c8.png)
-Summary Lots
-
+### Total and Lot Summary
+![total_summary](https://user-images.githubusercontent.com/110632671/205528033-2b966083-f8cf-42b1-8f54-f6ee53ee6b00.png)
+![lot_summary](https://user-images.githubusercontent.com/110632671/205528106-9a27de42-b844-4056-81fe-c8e5fb401206.png)
 
