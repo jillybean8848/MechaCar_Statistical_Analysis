@@ -37,3 +37,25 @@ As the image of our Total Summary Data shows above, the overall variance is unde
 
 This t-test was used to determine if the PSI across all manufacturing lots is statistically different from the population mean of 1,500 pounds PSI. The results show that the p-value = 0.06028, which is greater than our assumed significance level at 0.05. Meaning, we do not have sufficient evidence to reject the null hypothesis. Therefore, the PSI across all manufacturing lots is statistically similar to the population mean of 1,500 pounds PSI.
 
+### Lot 1
+![Lot1](https://user-images.githubusercontent.com/110632671/205530359-0c3d42d7-f4a0-4149-b5b2-19a4c71dd638.png)
+
+T-test for Lot 1 shows a p-value of 1 which is greater than our assumed signficance level of 0.5. Therefore, it is not statistically different from the population mean and the p-value is not low enough to reject the null hypothesis.
+
+### Lot 2
+![Lot2](https://user-images.githubusercontent.com/110632671/205530403-e7fe604a-ad8d-47ba-960d-aa104a2687fc.png)
+
+Results of the T-test for Lot 2 shows a p-value of 0.6072, which is greater than our assumed significance level of 0.05. Therefore, it is not statistically different from the population mean, and the p-value is not low enough to reject the null hypothesis.
+
+### Lot 3
+![Lot3](https://user-images.githubusercontent.com/110632671/205530418-d6da2a29-5c3e-41fa-96b4-5d3c7720918d.png)
+
+T-test results for Lot 3 shows a p-value of 0.04168, which is smaller than our assumed significance level of 0.05. Therefore, we do have sufficient evidence to reject the null hypothesis. 
+
+
+
+
+
+
+
+
