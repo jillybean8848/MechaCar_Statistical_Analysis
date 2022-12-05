@@ -29,3 +29,4 @@ Below is an image of our findings using R Studio:
 ![total_summary](https://user-images.githubusercontent.com/110632671/205528033-2b966083-f8cf-42b1-8f54-f6ee53ee6b00.png)
 ![lot_summary](https://user-images.githubusercontent.com/110632671/205528106-9a27de42-b844-4056-81fe-c8e5fb401206.png)
 
+As the image of our Total Summary Data shows above, the overall variance is under 100 PSI and meets the expected design specifications. Conversely, the Lot Summary shows an issue with one of the individual lots. Specifically, the variance in Lot 3 is over the acceptable threshold at 170.28.
